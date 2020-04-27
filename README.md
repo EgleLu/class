@@ -1,1 +1,1 @@
-"# class" 
+"my turing class" 
